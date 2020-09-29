@@ -29,7 +29,7 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 
 | Repository | Issues | Forks | Stars | 
 |---- | ----- | ----- | ---- | 
-| [Resources](https://github.com/CodeChefVIT/resources) | ![GitHub issues](https://img.shields.io/github/issues/CodeChefVIT/resources)(https://github.com/CodeChefVIT/resources/issues) | 	https://img.shields.io/github/forks/CodeChefVIT/resources | https://img.shields.io/github/stars/CodeChefVIT/resources |
+| [Resources](https://github.com/CodeChefVIT/resources) | ![GitHub issues](https://img.shields.io/github/issues/CodeChefVIT/resources) | 	![GitHub forks](https://img.shields.io/github/forks/CodeChefVIT/resources) | ![GitHub Stars](https://img.shields.io/github/stars/CodeChefVIT/resources) |
 | [Git CheatSheet](https://github.com/CodeChefVIT/git-cheatsheet) | https://img.shields.io/github/issues/CodeChefVIT/git-cheatsheet | https://img.shields.io/github/forks/CodeChefVIT/git-cheatsheet | https://img.shields.io/github/stars/CodeChefVIT/git-cheatsheet |
 | [Engagement Monitor](https://github.com/CodeChefVIT/Engagement-Monitor) | https://img.shields.io/github/issues/CodeChefVIT/Engagement-Monitor | https://img.shields.io/github/forks/CodeChefVIT/Engagement-Monitor | https://img.shields.io/github/stars/CodeChefVIT/Engagement-Monitor |
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | https://img.shields.io/github/issues/CodeChefVIT/OAuth-Pro | https://img.shields.io/github/forks/CodeChefVIT/OAuth-Pro | https://img.shields.io/github/stars/CodeChefVIT/OAuth-Pro | 
