@@ -7,7 +7,7 @@ Get ready for Hacktoberfest , check out all our repos and make your pull request
 <img src="https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540">
 
 <h2>
- What is Hacktoberfest2020
+ What is Hacktoberfest2020 😎
 </h2>
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long celebration of open source code presented by Digital Ocean.
 
@@ -16,24 +16,24 @@ During the entire month of October 2020, all you have to do is contribute to any
 If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities.
 
 <h1>
-How to get Started
+How to get Started 💥 
 </h1>
 
 Click on the link to register yourself  [Registration Here](https://hacktoberfest.digitalocean.com/)
 
-## Why should you take part
+## Why should you take part 🙌 
 -  Chance to contribute to open source projects 
 - Engage in greater communities 
 - Free swags and T Shirts from Digital Ocean
 
-## Table of Contents
+## Table of Contents 💃
 
 * [Repositories](#repositories-with-issues)
 * [Issues Table](#issues-table)
 * [Contribution Guidelines](#contribution-guidelines)
 
 
-## Repositories with issues
+## Repositories with issues ⚡️ 
 
 | Repository | Issues | Forks | Stars | 
 |---- | ----- | ----- | ---- | 
@@ -44,7 +44,7 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [![GitHub issues](https://img.shields.io/github/issues/CodeChefVIT/OAuth-Pro?color=orange)](https://github.com/CodeChefVIT/OAuth-Pro/issues) | ![GitHub forks](https://img.shields.io/github/forks/CodeChefVIT/OAuth-Pro?color=yellow) | ![GitHub Stars](https://img.shields.io/github/stars/CodeChefVIT/OAuth-Pro?color=green) | 
 
 
-## Issues Table
+## Issues Table  ✨
 
 | Reposiotry | Issue | 
 |---|---|
@@ -59,7 +59,7 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for Django](https://github.com/CodeChefVIT/OAuth-Pro/issues/3) |
 
 
-# Contribution Guidelines
+# Contribution Guidelines  🙂
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
@@ -89,6 +89,8 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+If you like our Projects please leave a 🌟
 
 <p align="center">
 	With :heart: by <a href="https://www.codechefvit.com" target="_blank">CodeChef-VIT</a>
