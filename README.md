@@ -30,6 +30,7 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 
 * [Repositories](#repositories-with-issues)
 * [Issues Table](#issues-table)
+* [Contribution Guidelines](#contribution-guidelines)
 
 
 ## Repositories with issues
@@ -55,4 +56,40 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for NodeJs](https://github.com/CodeChefVIT/OAuth-Pro/issues/5) |
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for Flask](https://github.com/CodeChefVIT/OAuth-Pro/issues/4) |
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for Django](https://github.com/CodeChefVIT/OAuth-Pro/issues/3) |
+
+
+# Contribution Guidelines
+
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+
+
+## Pull Request Process
+
+* Ensure any install or build dependencies are removed before the end of the layer when doing a build.
+* Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
+* Only send your pull requests to the development branch where once we reach a stable point it will be merged with the master branch .
+* Associate each Pull Request with the required issue number.
+* Please provide relevant steps to use your codebase adding few extra lines of comments or commands to run would be helpful for others to follow along .
+
+## Branch Policy
+- development: If you are making a contribution make sure to send your Pull Request to this branch . All developments goes in this branch.
+
+- master: After significant features/bug-fixes are accumulated in development branch we merge it with the master branch.
+
+## Contribution Practices
+
+- Please be respectful of others , do not indulge in unacceptable behaviour 
+- If a person is working or has been assigned an issue and you want to work on it please ask him/her if he is working on it
+- We are happy to allow you to work on your issues , but in case of long period of inactivity  the issue will be approved to another volunteer
+- If you report a bug please provide steps to reproduce the bug.
+- In case of changing the backend routes please submit an updated routes documentation for the same.
+- If there is an UI related change it would be great if you could attach a screenshot with the resultant changes so it is easier to review for the maintainers
+
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+<p align="center">
+	With :heart: by <a href="https://www.codechefvit.com" target="_blank">CodeChef-VIT</a>
+</p>
 
