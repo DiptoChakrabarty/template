@@ -7,7 +7,7 @@ Get ready for Hacktoberfest , check out all our repos and make your pull request
 <img src="https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540">
 
 <h2>
- What is Hacktoberfest2020
+ What is Hacktoberfest2020 😎
 </h2>
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long celebration of open source code presented by Digital Ocean.
 
