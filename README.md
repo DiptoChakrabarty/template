@@ -53,8 +53,11 @@ Click on the link to register yourself  [Registration Here](https://hacktoberfes
 | [Engagement Monitor](https://github.com/CodeChefVIT/Engagement-Monitor) | [Convert to Rest API](https://github.com/CodeChefVIT/Engagement-Monitor/issues/22) |
 | [SMS APP](https://github.com/CodeChefVIT/sms_app) | [Resolve Deprecated Dependencies](https://github.com/CodeChefVIT/sms_app/issues/9) |
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for Golang](https://github.com/CodeChefVIT/OAuth-Pro/issues/6) |
+| [Secondary Domains](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20) | [EBS Volume SnapShots](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20/issues/9) | 
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for PHP](https://github.com/CodeChefVIT/OAuth-Pro/issues/8) |
+| [Secondary Domains](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20) | [Kibana and ElasticSearch](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20/issues/8) | 
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for NodeJs](https://github.com/CodeChefVIT/OAuth-Pro/issues/5) |
+| [Secondary Domains](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20) | [Nginx Proxy](https://github.com/CodeChefVIT/Secondary-Domain-Tasks-20/issues/7) | 
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for Flask](https://github.com/CodeChefVIT/OAuth-Pro/issues/4) |
 | [OAuth Pro](https://github.com/CodeChefVIT/OAuth-Pro) | [OAuth for Django](https://github.com/CodeChefVIT/OAuth-Pro/issues/3) |
 
